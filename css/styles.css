@@ -1,0 +1,59 @@
+@font-face {
+  font-family: Billion;
+  src: url("fonts/BillionDreams.ttf");
+}
+@font-face {
+  font-family: Brickson;
+  src: url("fonts/Brickson.otf");
+}
+.w-100 {
+  width: 100px !important;
+}
+
+.font-logo {
+  font-family: Billion;
+}
+
+.nav-link {
+  color: black;
+}
+
+.nav-btn {
+  border: 1.5px solid black;
+  background: white;
+  border-radius: 3px;
+}
+
+.fa-bars {
+  padding: 0.25rem;
+}
+
+.collection {
+  position: absolute;
+  top: 220px;
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  color: white;
+  text-shadow: 2px 1px 4px black;
+}
+
+.font-brickson {
+  font-family: Brickson;
+}
+
+#arc-text {
+  display: block;
+  width: 465px;
+  height: 305px;
+}
+
+.fs-14 {
+  font-size: 14px;
+}
+
+.btn {
+  border: 0;
+  float: right;
+  margin: 0.25rem;
+}
